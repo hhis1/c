@@ -1,2 +1,4 @@
 # c
-Basics of C language
+- Basics of C language
+- Operators
+- Functions
